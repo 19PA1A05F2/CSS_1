@@ -1,9 +1,13 @@
-
+body{
+    margin: 0;
+}
 .top{
+    width: auto;
+    height: auto;
     font-family: 'Courier New', Courier, monospace;
     background-image: url("Background.jpg");
     background-size: cover;
-    background-color: hsla(black, 100%,0%, 0.1);
+    opacity: 1.0;
     text-align: center;
     padding: 20px;
     color: white;
