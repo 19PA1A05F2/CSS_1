@@ -15,6 +15,9 @@ img{
     height: 23%;
     filter: brightness(0.2);
 }
+.top ul{
+    padding-bottom:30px;
+}
 .top li{
     padding-right: 10px;
     font-size: 20px;
