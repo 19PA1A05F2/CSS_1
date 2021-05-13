@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+.bg{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 20px;
+}
+img{
+    position: absolute;
+    z-index: -1;
+    width:100%;
+    max-width: 1520px;
+    height: 200px;
+    filter: brightness(0.2);
+}
+.top li{
+    padding-right: 10px;
+    font-size: 20px;
+    display: inline;
+    list-style-type: none;
+}
+.about{
+    padding: 10px 80px;
+    font-size:20px;
+}
+.special{
+    color: #3fabbf;
+    text-decoration: underline;
+}
+.skills{
+    background-color: #ea1e63;
+    color:white;
+    font-size:20px;
+    
+}
+.credits{
+    background-color: #444444;
+    font-size:15px;
+    color: white;
+}
